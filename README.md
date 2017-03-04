@@ -20,16 +20,12 @@ Neutrino preset for building your application source code.
 
 ```bash
 ❯ yarn add --dev neutrino-preset-airbnb
-# Install eslint-config-airbnb peer dependencies
-❯ yarn add --dev eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 ```
 
 ### npm
 
 ```bash
 ❯ npm install --save-dev neutrino-preset-airbnb 
-# Install eslint-config-airbnb peer dependencies
-❯ npm install --save-dev eslint eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react
 ```
 
 ## Documentation
