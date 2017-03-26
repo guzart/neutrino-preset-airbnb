@@ -8,7 +8,7 @@ config, following the [Airbnb styleguide](https://github.com/airbnb/javascript).
 
 * Node.js v6.9+
 * Yarn or npm client
-* Neutrino v4, Neutrino build preset
+* Neutrino v5, Neutrino build preset
 
 ## Installation
 
