@@ -1,5 +1,6 @@
 # Neutrino Airbnb Preset
-[![NPM version][npm-image]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
+[![Build Status](https://travis-ci.org/guzart/neutrino-preset-airbnb.svg?branch=master)](https://travis-ci.org/guzart/neutrino-preset-airbnb)
+[![NPM version][npm-image]][npm-url] 
 
 `neutrino-preset-airbnb` is a Neutrino preset that supports linting JavaScript projects with Airbnb's ESLint
 config, following the [Airbnb styleguide](https://github.com/airbnb/javascript).
