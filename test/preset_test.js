@@ -1,0 +1,13 @@
+import test from 'ava';
+import { validate } from 'webpack';
+import { Neutrino } from 'neutrino';
+
+test('loads preset', t => {
+  t.notThrows(() => require('..'));
+});
+
+test('uses preset', t => {
+  const api = Neutrino();
+
+  t.notThrows(() => api.use(require('..')));
+});
