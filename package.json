@@ -1,9 +1,10 @@
 {
   "name": "neutrino-preset-airbnb",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Neutrino preset for adding Airbnb's JS ESLint config, following the Airbnb styleguide",
   "main": "index.js",
   "scripts": {
+    "release": "standard-version -r",
     "test": "ava test"
   },
   "repository": {
@@ -37,6 +38,7 @@
   "devDependencies": {
     "ava": "^0.18.2",
     "neutrino": "^5.0.0",
+    "standard-version": "^4.0.0",
     "webpack": "^2.3.2"
   }
 }
