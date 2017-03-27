@@ -2,7 +2,7 @@
   "name": "neutrino-preset-airbnb",
   "version": "1.1.0",
   "description": "Neutrino preset for adding Airbnb's JS ESLint config, following the Airbnb styleguide",
-  "main": "src/index.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/guzart/neutrino-preset-airbnb.git"
