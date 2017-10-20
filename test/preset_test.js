@@ -10,7 +10,7 @@ test('uses preset', t => {
   t.notThrows(() => api.use(require('..')));
 });
 
-test.only('supports custom properties', t => {
+test('supports custom properties', t => {
   const api = Neutrino();
   api.use(require('..'));
 
