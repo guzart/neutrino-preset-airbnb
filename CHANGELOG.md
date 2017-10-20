@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file. See [standa
 <a name="4.0.0"></a>
 # [4.0.0](https://github.com/guzart/neutrino-preset-airbnb/compare/v3.0.0...v4.0.0) (2017-10-20)
 
-
+* upgrade to neutrino v7 ([557569e](https://github.com/guzart/neutrino-preset-airbnb/commit/557569e99ea04a3b934c80487a7bf7e926edac15))
 
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/guzart/neutrino-preset-airbnb/compare/v2.1.0...v3.0.0) (2017-08-16)
