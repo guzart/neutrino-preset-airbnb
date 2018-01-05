@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.0.0"></a>
+# [5.0.0](https://github.com/guzart/neutrino-preset-airbnb/compare/v4.0.0...v5.0.0) (2017-10-20)
+
+* upgrade to neutrino v8 ([e15c57b](https://github.com/guzart/neutrino-preset-airbnb/commit/e15c57b0e973c1ef7ba4a94743f8577f09519d3f))
+
 <a name="4.0.0"></a>
 # [4.0.0](https://github.com/guzart/neutrino-preset-airbnb/compare/v3.0.0...v4.0.0) (2017-10-20)
 
